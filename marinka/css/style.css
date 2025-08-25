@@ -839,3 +839,7 @@ footer p{
     display:block;
     margin:auto;
 }
+
+.container {
+	padding: 0;
+}
